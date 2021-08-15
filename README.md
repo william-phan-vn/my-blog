@@ -1,1 +1,0 @@
-# my_aws_blog

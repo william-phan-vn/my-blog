@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Serverless
+node_modules/
+.serverless/
+package-lock.json
+package.json
+
+# Pycharm
+.idea/
